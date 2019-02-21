@@ -1,0 +1,2 @@
+# factorialAlg
+Factorial Algorithm
